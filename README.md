@@ -171,6 +171,24 @@ console.log( v );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dmaxabssorted`][@stdlib/stats/base/dmaxabssorted]: calculate the maximum absolute value of a sorted double-precision floating-point strided array.
+-   [`@stdlib/stats/base/smaxabs`][@stdlib/stats/base/smaxabs]: calculate the maximum absolute value of a single-precision floating-point strided array.
+-   [`@stdlib/stats/base/smaxsorted`][@stdlib/stats/base/smaxsorted]: calculate the maximum value of a sorted single-precision floating-point strided array.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -229,6 +247,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float32]: https://github.com/stdlib-js/array-float32
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dmaxabssorted]: https://github.com/stdlib-js/stats-base-dmaxabssorted
+
+[@stdlib/stats/base/smaxabs]: https://github.com/stdlib-js/stats-base-smaxabs
+
+[@stdlib/stats/base/smaxsorted]: https://github.com/stdlib-js/stats-base-smaxsorted
+
+<!-- </related-links> -->
 
 </section>
 
