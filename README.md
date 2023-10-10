@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import smaxabssorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smaxabssorted@deno/mod.js';
+import smaxabssorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smaxabssorted@v0.1.1-deno/mod.js';
 ```
 
 #### smaxabssorted( N, x, stride )
@@ -155,7 +155,7 @@ var v = smaxabssorted.ndarray( N, x, 2, 1 );
 
 ```javascript
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import smaxabssorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smaxabssorted@deno/mod.js';
+import smaxabssorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smaxabssorted@v0.1.1-deno/mod.js';
 
 var x;
 var i;
